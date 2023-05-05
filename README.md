@@ -46,6 +46,12 @@ pip install SentencePiece
 python main.py
 ```
 
+### Play on Youtube
+
+[![View on youtube](video_thumb.png)](https://youtu.be/R5dlEuG7FDc)
+
+
+
 ## Tuning
 
 ```
