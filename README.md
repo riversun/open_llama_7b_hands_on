@@ -11,7 +11,7 @@ This is because the repository also contains other models,
 and the model for huggingface is one level down in the directory.
 
 ```
-git clone https://huggingface.co/openlm-research/open_llama_7b_preview_200bt
+git clone https://huggingface.co/openlm-research/open_llama_7b_preview_300bt
 ```
 
 ## Use models as hugging face models
@@ -19,7 +19,7 @@ git clone https://huggingface.co/openlm-research/open_llama_7b_preview_200bt
 It appears that one level down is the huggingface model as follows
 
 ```
-model_path = "/home/user/sandbox/open_llama_7b_preview_200bt/open_llama_7b_preview_200bt_transformers_weights"
+model_path ="/home/user/sandbox/open_llama_7b_preview_300bt/open_llama_7b_preview_300bt_transformers_weights"
 ```
 
 ## Setup environment
