@@ -1,6 +1,6 @@
-# "open-llama" hands-on
+# "open_llama_7b_preview_300bt" hands-on
 
-I have tried open-llama.
+I have tried open_llama_7b_preview_300bt.
 I don't fully understand it yet, but I can confirm that it works as a first look.
 
 ## Download models
@@ -11,6 +11,7 @@ This is because the repository also contains other models,
 and the model for huggingface is one level down in the directory.
 
 ```
+cd sandbox
 git clone https://huggingface.co/openlm-research/open_llama_7b_preview_300bt
 ```
 
